@@ -1,0 +1,12 @@
+package com.yooseongc.hadoop.dataexpo.ch05;
+
+public enum DelayCounter {
+
+	NOT_AVAILABLE_ARRIVAL,
+	SCHEDULED_ARRIVAL,
+	EARLY_ARRIVAL,
+	NOT_AVAILABLE_DEPARTURE,
+	SCHEDULED_DEPARTURE,
+	EARLY_DEPARTURE;
+	
+}
